@@ -415,5 +415,5 @@ To replicate this analysis locally, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/netflix-sql-analysis.git](https://github.com/your-username/netflix-sql-analysis.git)
-cd netflix-sql-analysis
+git clone https://github.com/Kalyan199999/mysql-netflix-daya-analysis.git
+cd mysql-netflix-daya-analysis
